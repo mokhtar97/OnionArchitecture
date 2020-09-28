@@ -1,0 +1,14 @@
+E:\ONionArchitecture\Service-Layer\bin\Debug\netcoreapp3.1\Service-Layer.deps.json
+E:\ONionArchitecture\Service-Layer\bin\Debug\netcoreapp3.1\Service-Layer.dll
+E:\ONionArchitecture\Service-Layer\bin\Debug\netcoreapp3.1\Service-Layer.pdb
+E:\ONionArchitecture\Service-Layer\bin\Debug\netcoreapp3.1\Domain-Layer.dll
+E:\ONionArchitecture\Service-Layer\bin\Debug\netcoreapp3.1\Repository-Layer.dll
+E:\ONionArchitecture\Service-Layer\bin\Debug\netcoreapp3.1\Domain-Layer.pdb
+E:\ONionArchitecture\Service-Layer\bin\Debug\netcoreapp3.1\Repository-Layer.pdb
+E:\ONionArchitecture\Service-Layer\obj\Debug\netcoreapp3.1\Service-Layer.csprojAssemblyReference.cache
+E:\ONionArchitecture\Service-Layer\obj\Debug\netcoreapp3.1\Service-Layer.AssemblyInfoInputs.cache
+E:\ONionArchitecture\Service-Layer\obj\Debug\netcoreapp3.1\Service-Layer.AssemblyInfo.cs
+E:\ONionArchitecture\Service-Layer\obj\Debug\netcoreapp3.1\Service-Layer.csproj.CoreCompileInputs.cache
+E:\ONionArchitecture\Service-Layer\obj\Debug\netcoreapp3.1\Service-Layer.csproj.CopyComplete
+E:\ONionArchitecture\Service-Layer\obj\Debug\netcoreapp3.1\Service-Layer.dll
+E:\ONionArchitecture\Service-Layer\obj\Debug\netcoreapp3.1\Service-Layer.pdb

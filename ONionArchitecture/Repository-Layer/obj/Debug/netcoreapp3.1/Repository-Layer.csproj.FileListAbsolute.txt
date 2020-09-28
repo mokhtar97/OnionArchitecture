@@ -1,0 +1,12 @@
+E:\ONionArchitecture\Repository-Layer\bin\Debug\netcoreapp3.1\Repository-Layer.deps.json
+E:\ONionArchitecture\Repository-Layer\bin\Debug\netcoreapp3.1\Repository-Layer.dll
+E:\ONionArchitecture\Repository-Layer\bin\Debug\netcoreapp3.1\Repository-Layer.pdb
+E:\ONionArchitecture\Repository-Layer\bin\Debug\netcoreapp3.1\Domain-Layer.dll
+E:\ONionArchitecture\Repository-Layer\bin\Debug\netcoreapp3.1\Domain-Layer.pdb
+E:\ONionArchitecture\Repository-Layer\obj\Debug\netcoreapp3.1\Repository-Layer.csprojAssemblyReference.cache
+E:\ONionArchitecture\Repository-Layer\obj\Debug\netcoreapp3.1\Repository-Layer.AssemblyInfoInputs.cache
+E:\ONionArchitecture\Repository-Layer\obj\Debug\netcoreapp3.1\Repository-Layer.AssemblyInfo.cs
+E:\ONionArchitecture\Repository-Layer\obj\Debug\netcoreapp3.1\Repository-Layer.csproj.CoreCompileInputs.cache
+E:\ONionArchitecture\Repository-Layer\obj\Debug\netcoreapp3.1\Repository-Layer.csproj.CopyComplete
+E:\ONionArchitecture\Repository-Layer\obj\Debug\netcoreapp3.1\Repository-Layer.dll
+E:\ONionArchitecture\Repository-Layer\obj\Debug\netcoreapp3.1\Repository-Layer.pdb

@@ -1,0 +1,12 @@
+E:\ONionArchitecture\Domain-Layer\bin\Debug\netcoreapp3.1\Domain-Layer.deps.json
+E:\ONionArchitecture\Domain-Layer\bin\Debug\netcoreapp3.1\Domain-Layer.runtimeconfig.json
+E:\ONionArchitecture\Domain-Layer\bin\Debug\netcoreapp3.1\Domain-Layer.runtimeconfig.dev.json
+E:\ONionArchitecture\Domain-Layer\bin\Debug\netcoreapp3.1\Domain-Layer.dll
+E:\ONionArchitecture\Domain-Layer\bin\Debug\netcoreapp3.1\Domain-Layer.pdb
+E:\ONionArchitecture\Domain-Layer\obj\Debug\netcoreapp3.1\Domain-Layer.AssemblyInfoInputs.cache
+E:\ONionArchitecture\Domain-Layer\obj\Debug\netcoreapp3.1\Domain-Layer.AssemblyInfo.cs
+E:\ONionArchitecture\Domain-Layer\obj\Debug\netcoreapp3.1\Domain-Layer.csproj.CoreCompileInputs.cache
+E:\ONionArchitecture\Domain-Layer\obj\Debug\netcoreapp3.1\Domain-Layer.dll
+E:\ONionArchitecture\Domain-Layer\obj\Debug\netcoreapp3.1\Domain-Layer.pdb
+E:\ONionArchitecture\Domain-Layer\obj\Debug\netcoreapp3.1\Domain-Layer.genruntimeconfig.cache
+E:\ONionArchitecture\Domain-Layer\obj\Debug\netcoreapp3.1\Domain-Layer.csprojAssemblyReference.cache
